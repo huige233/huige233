@@ -10,7 +10,7 @@
 ## 擅长领域
 
 - 并没有什么擅长的 哦 我会 ctrl+c 和 ctrl+v
-- 还有面向 CSDN(https://blog.csdn.net/) 和 GITHUB(https://github.com/) 编程
+- 还有面向 [CSDN](https://blog.csdn.net/) 和 [GITHUB](https://github.com/) 编程
 
 ## 统计
 
@@ -20,7 +20,6 @@
 ## My Repositorie
 
 | 仓库 | 链接 |
-| --- | --- | --- |
 | [liftsartnon](https://github.com/huige233/liftresartnon) | [Contributors](https://github.com/huige233/liftresartnon) |
 | [netease_download](https://github.com/huige233/netease_download) | [Contributors](https://github.com/huige233/netease_download) |
 | [four game to python](https://github.com/huige233/four_game_to_python) | [Contributors](https://github.com/huige233/four_game_to_python) |
