@@ -33,4 +33,4 @@
 
 ## 其他
 
-联系方式：QQ [694247621](mqqwpa://im/chat?chat_type=wpa&uin=694247621)
+联系方式：QQ [694247621](http://wpa.qq.com/msgrd?v=3&uin=694247621&site=qq&menu=yes)
