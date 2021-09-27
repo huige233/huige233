@@ -27,8 +27,8 @@
 | [yandere](https://github.com/huige233/yandere) | [Contributors](https://github.com/huige233/yandere) |
 | [vuepress-theme](https://github.com/huige233/vuepress-theme) | [Contributors](https://github.com/huige233/vuepress-theme) |
 
-### 推荐一个很厉害的东西
-
+### 推荐一些很厉害的东西
+[ColorWork](https://github.com/Coloryr/ColoryrWork)
 [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ## 其他
