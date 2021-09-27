@@ -1,5 +1,5 @@
 # About Me
-
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
 ## 开发环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
