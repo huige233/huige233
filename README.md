@@ -13,7 +13,7 @@
 
 Twitter [huige545](https://twitter.com/huige545)
 
-Telegram [huige] (https://t.me/huige233)
+Telegram [huige](https://t.me/huige233)
 
 ## 开发环境
 
