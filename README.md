@@ -1,5 +1,8 @@
 # About Me
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
+
+<img align='middle' src='[https://anya.215213344.xyz/?text=%E6%98%AF%E5%AD%A6%E7%94%9F%EF%BC%81%E7%9D%BE%E8%B4%B5%E7%9A%84%E7%B4%AB%E8%89%B2%EF%BC%81&img=https://i.imgur.com/QncNJJ1.png&bgcolor1=a371f7&bgcolor2=8957e5](https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/01993-3852807167-masterpiece,-looking-at-viewer,-white-hair,-cat-paws-,-long-hair,-hair-ornament,-hair-flower,-cute,-white-flower,white_socks-,pa.6hv2z3qbf640.webp)'></img>
+
 ## 开发环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -16,6 +19,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=huige233&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
 
 ## My Repositories
 
