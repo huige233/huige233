@@ -1,7 +1,6 @@
 # About Me
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
-
-<img align='middle' src='[https://anya.215213344.xyz/?text=%E6%98%AF%E5%AD%A6%E7%94%9F%EF%BC%81%E7%9D%BE%E8%B4%B5%E7%9A%84%E7%B4%AB%E8%89%B2%EF%BC%81&img=https://i.imgur.com/QncNJJ1.png&bgcolor1=a371f7&bgcolor2=8957e5](https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/01993-3852807167-masterpiece,-looking-at-viewer,-white-hair,-cat-paws-,-long-hair,-hair-ornament,-hair-flower,-cute,-white-flower,white_socks-,pa.6hv2z3qbf640.webp)'></img>
+<img align='right' src='https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/01993-3852807167-masterpiece,-looking-at-viewer,-white-hair,-cat-paws-,-long-hair,-hair-ornament,-hair-flower,-cute,-white-flower,white_socks-,pa.6hv2z3qbf640.webp'>
 
 ## 开发环境
 
