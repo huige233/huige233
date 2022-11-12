@@ -5,7 +5,7 @@
 
 ## IF you like this
 
-<img align="middle src='https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif'>
+<img align='middle' src='https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif'>
 
 [CSS实现](https://codepen.io/huige233/pen/dyKvrrj)
 
