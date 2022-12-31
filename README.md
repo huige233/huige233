@@ -32,10 +32,10 @@ Gmail [huige1464](huige1463@gmail.com)
 
 ## 统计
 
-<div style="display:none">
+<!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=huige233&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+-->
 
 ![banner](github-metrics.svg)
 ![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
