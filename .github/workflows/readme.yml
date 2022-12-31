@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: poly000
+          user: huige233
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
