@@ -15,6 +15,8 @@ Twitter [huige545](https://twitter.com/huige545)
 
 Telegram [huige](https://t.me/huige233)
 
+Gmail [huige1464](huige1463@gmail.com)
+
 ## 开发环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
