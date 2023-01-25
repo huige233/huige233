@@ -1,62 +1,42 @@
-# About Me
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
 
-<img align='right' width="288" height="384" src='https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/01993-3852807167-masterpiece,-looking-at-viewer,-white-hair,-cat-paws-,-long-hair,-hair-ornament,-hair-flower,-cute,-white-flower,white_socks-,pa.6hv2z3qbf640.webp'>
-
-## IF you like this
-
-<img align='middle' width="320" height="240" src='https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif'>
-
-[CSS实现](https://codepen.io/huige233/pen/dyKvrrj)
-
-## 联系方式
-
-Twitter [huige545](https://twitter.com/huige545)
-
-Telegram [huige](https://t.me/huige233)
-
-Gmail [huige1464](huige1463@gmail.com)
-
-## 开发环境
-
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 擅长领域
-
-- 并没有什么擅长的 哦 我会 ctrl+c 和 ctrl+v
-- 还有面向 [CSDN](https://blog.csdn.net/) 和 [GITHUB](https://github.com/) 编程
-- 绝赞Copilot摸鱼使用ing
-
-## 统计
+<a href="https://profile.codersrank.io/user/huige233/">
+<img width="45%" align="right" src="https://metrics.lecoq.io/huige233?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=HTML%2CCSS%2CSCSS%2CTeX&languages.skipped=Blog&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" />
+</a>
 
 <!--
-[![github stats](https://github-readme-stats.vercel.app/api?username=huige233&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=14&hide=stylus,smarty,scss&count_private=true&exclude_repo=vuepress-theme)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://profile.codersrank.io/user/sudoskys/">
+<img width="50%" align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
+</a>
+-->
+<!--
+<img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 -->
 
-![banner](github-metrics.svg)
+##  👋Who am i
+
+- 一般路过
+- 擅长 ctrl+c 和 ctrl+v
+- Java/Python/CSS
+- Learning how to program worse
+- A Student
+
+## 📫Contact me
+
+-   Ask me in [Issue](https://github.com/huige233/huige233/issues)
+-   My [GitHub](https://github.com/huige233)
+-   My [Profile](https://profile.codersrank.io/user/huige233/)
+-   E-mail: [me@dianas.cyou](mailto:huige1463@gmail.com)
+-   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige)
+
+
 ![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
 
-## My Repositories
+![a](https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif)
 
-| 仓库 | 链接 |
-| --- | --- | 
-| [liftsartnon](https://github.com/huige233/liftresartnon) | [Contributors](https://github.com/huige233/liftresartnon) |
-| [netease_download](https://github.com/huige233/netease_download) | [Contributors](https://github.com/huige233/netease_download) |
-| [transcend](https://github.com/huige233/transcend) | [Contributors](https://github.com/huige233/transcend) |
-| [yandere](https://github.com/huige233/yandere) | [Contributors](https://github.com/huige233/yandere) |
-| [vuepress-theme](https://github.com/huige233/vuepress-theme) | [Contributors](https://github.com/huige233/vuepress-theme) |
 
-## 推荐一些很厉害的东西
 
-[ColorWork](https://github.com/Coloryr/ColoryrWork)
 
-[CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
-## 一些有意思的 Repo
 
-[SD-Book](https://github.com/sudoskys/StableDiffusionBook)
+
 
