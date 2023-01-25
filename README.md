@@ -25,7 +25,7 @@
 -   Ask me in [Issue](https://github.com/huige233/huige233/issues)
 -   My [GitHub](https://github.com/huige233)
 -   My [Profile](https://profile.codersrank.io/user/huige233/)
--   E-mail: [me@dianas.cyou](mailto:huige1463@gmail.com)
+-   E-mail: [huige1463@gmail.com](mailto:huige1463@gmail.com)
 -   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige)
 
 
