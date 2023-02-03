@@ -26,7 +26,7 @@
 -   My [GitHub](https://github.com/huige233)
 -   My [Profile](https://profile.codersrank.io/user/huige233/)
 -   E-mail: [huige1463@gmail.com](mailto:huige1463@gmail.com)
--   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige)
+-   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige) ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
 
 
 ![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
