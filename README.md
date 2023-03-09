@@ -29,7 +29,7 @@
 -   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige) ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=huige233.huige233.readme)
 
 
-![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
+<img alt="github-snake" src="github-snake.svg" />
 
 ![a](https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif)
 
