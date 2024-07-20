@@ -1,6 +1,7 @@
-![banner](github-metrics.svg)
+
 
 <!--
+![banner](github-metrics.svg)
 <a href="https://profile.codersrank.io/user/sudoskys/">
 <img width="50%" align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 </a>
@@ -9,13 +10,20 @@
 <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 -->
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=huige233&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=dark&bg_color=DEG,1E90FF,87CEEB&text_color=E6E6FA&icon_color=FFFACD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&line_height=28&layout=compact&langs_count=10&hide=html&theme=dark&bg_color=DEG,87ceeb,0089A7&text_color=E6E6FA&icon_color=FFFACD)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+can use hide=glsl,js
+-->
+
 ##  👋Who am i
 
 - 一般路过
 - 擅长 ctrl+c 和 ctrl+v
-- Java/Python/CSS
+- 啥也不会别想了，没有擅长语言
 - Learning how to program worse
 - A Student
+- 可以来看看我的小垃圾 [blog](https://huige233.com)
 
 ## 📫Contact me
 
