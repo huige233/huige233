@@ -40,7 +40,7 @@ can use hide=glsl,js
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 
-![a](https://cdn.staticaly.com/gh/huige233/image_use@master/otheruse_image/h7kfm-srvil.joka60z9am0.gif)
+![a](https://github.com/huige233/image_use/blob/master/otheruse_image/h7kfm-srvil.joka60z9am0.gif)
 
 
 
