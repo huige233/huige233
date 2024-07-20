@@ -15,8 +15,9 @@
 <!--
 can use hide=glsl,js
 -->
-![banner](metrics.plugin.isocalendar.fullyear.svg)
 ##  👋Who am i
+
+<img width="50%" align="right" src="https://github.com/huige233/huige233/blob/main/metrics.plugin.isocalendar.fullyear.svg/" />
 
 - 一般路过
 - 擅长 ctrl+c 和 ctrl+v
@@ -24,6 +25,7 @@ can use hide=glsl,js
 - Learning how to program worse
 - A Student
 - 可以来看看我的小垃圾 [blog](https://huige233.com)
+
 
 ## 📫Contact me
 
