@@ -35,6 +35,7 @@ can use hide=glsl,js
 -   E-mail: [huige1463@gmail.com](mailto:huige1463@gmail.com)
 -   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/huige) ![这是访问量计数，如果看不到请刷新](https://visitor-badge.laobi.icu/badge?page_id=huige233.README)
 
+[赞助我(？](https://ifdian.net/a/huige)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/huige233/huige233/blob/output/github-contribution-grid-snake-dark.svg)">
